@@ -14,19 +14,23 @@
 </ol>
 
 <h3>TO USE</h3>
-* Run the project
-* Click the link
-* Enjoy (if you want to)
-
+<ul>
+<li> Run the project</li>
+<li> Click the link</li>
+<li> Enjoy (if you want to)</li>
+</ul>
 <h3>TO RUN TEST </h3>
-* add 'text' to your 'NODE_ENV' in .env
-* run: npm run test-watch
+
+- add 'text' to your 'NODE_ENV' in .env
+- run: npm run test-watch
 
 <h3>NOTES</h3>
-* Make sure you have node installed
+
+- Make sure you have node installed
 
 <h3>Technology used</h3>
-* Node.js
-* Express.js
-* Jest
-* Mongodb
+
+- Node.js
+- Express.js
+- Jest
+- Mongodb
